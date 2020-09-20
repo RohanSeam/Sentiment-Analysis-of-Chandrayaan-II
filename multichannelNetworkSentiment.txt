@@ -1,0 +1,425 @@
+Review: ["Chandrayaan begins send amazing images Bracing soft landing ISRO httpstcorNDBhTOMlk",
+]
+Sentiment: NEGATIVE (96.323%)
+Review: ["isro Congratulations Chandrayaan team Photo sharp Live telecast Vikram lander landing September moon highly appreciated",
+]
+Sentiment: POSITIVE (99.986%)
+Review: ["Indias spacecraft delivers gorgeous first moon photo httpstcoWwGjEfwnkj",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["ProperAtheist isro Im sorry couldnt find mention funds reallocated Chandrayaan Mangalyaan find Govt approval separate projects Chandrayaan amp Mangalyaan nothing suggest channeling one fund another Can share source back ur claim",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["mygovindia narendramodi Thank much wonderful opportunity My daughter participated quiz faith winning amp witnessing landing Chandrayaan alongside PM Modi ji",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["spacecraft delivers gorgeous first moon photo CNET",
+]
+Sentiment: POSITIVE (99.752%)
+Review: ["Awesome So thrilled see Moon image captured Chandrayaan httpstcoVDxrHOHacd",
+]
+Sentiment: POSITIVE (99.998%)
+Review: ["Indias spacecraft delivers gorgeous first moon photo CNET httpstcodRzDVTqxUh",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["isro That Amazing picture moon Thanks ISRO amp super cute moon pic project Human moon september amp Nation waiting moment",
+]
+Sentiment: NEGATIVE (92.264%)
+Review: ["spacecraft delivers gorgeous first moon photo CNET httpstcoRyjEzreLFm",
+]
+Sentiment: POSITIVE (99.752%)
+Review: ["Indias spacecraft delivers gorgeous first moon photo",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["Indias spacecraft delivers gorgeous first moon photo CNET",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["isro Congratulations isro team thanks heart Chandrayaan",
+]
+Sentiment: POSITIVE (65.202%)
+Review: ["Picture pride Today captured first moon image made nostalgic Moon shot took months ago Greater noida India aloktveet narendramodi isro DhirendraGBN myogiadityanath",
+]
+Sentiment: POSITIVE (99.996%)
+Review: ["Romance MOON isro congratulations",
+]
+Sentiment: POSITIVE (91.698%)
+Review: ["Since dawn Humans used look sky wonder magnificence Moon Cultures worshiped put flags great Nations reached conquered But India SWAG ISRO",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Both journeys promises successful culmination",
+]
+Sentiment: POSITIVE (98.773%)
+Review: ["First pic moon chandrayaan congratulations ISRO",
+]
+Sentiment: POSITIVE (99.983%)
+Review: ["takes first image Moon capturing Apollo crater Mare Orientale basin via timesofindia success picture",
+]
+Sentiment: POSITIVE (99.804%)
+Review: ["Dont worry Sir minorities fascists come loved ones someday remember Chandrayaan wisecracks happens",
+]
+Sentiment: POSITIVE (84.757%)
+Review: ["Captures first image moon congratulations isro",
+]
+Sentiment: POSITIVE (99.417%)
+Review: ["ShivAroor isro Really feel proud see beautiful photograph Moon built ISROs Chandrayaan",
+]
+Sentiment: POSITIVE (99.998%)
+Review: ["Great going feeling proud belong country last starts giving dues scientists treat corrupt culprits otherwise used hog limelight",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["takes first image Moon capturing Apollo crater Mare Orientale basin via timesofindia Friends highly honoured ISRO achievement",
+]
+Sentiment: POSITIVE (98.023%)
+Review: ["It great moments every Indian",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["All best landing isro india",
+]
+Sentiment: POSITIVE (99.883%)
+Review: ["Hello This Chandrayaan special update wanted let everyone back home know amazing journey far course land lunar south polar region September To know Im stay tuned httpst",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["narendramodi Great participated interesting Quiz participate Quiz amp win chance witness landing moon",
+]
+Sentiment: POSITIVE (99.260%)
+Review: ["Great Things Never come comfort zoneFrom Bullock Cart Successfully launching chandrayaan proud Indian JAI HIND",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Successfully Enters Lunar Transfer Trajectory ISRO ISRO said final orbit raising manoeuvre successfully carried firing spacecrafts motors secondstechnology tech innovation",
+]
+Sentiment: POSITIVE (99.941%)
+Review: ["isro As isro launched many information getting amazing know excited things",
+]
+Sentiment: POSITIVE (98.406%)
+Review: ["isro Well done sweetie pie Chandrayaan chellam Lovely snap All best chellam",
+]
+Sentiment: POSITIVE (99.993%)
+Review: ["Just talking Apollo crater nothing NASA mission doesnt qualify say fools paradise least",
+]
+Sentiment: POSITIVE (90.473%)
+Review: ["isro Chandrayaan You piece equipment You invested Life Very proud steadily forging destination You alone chellam Battling elements dreams fly chellam Have safe successful amp happy journey chellam Vijayee Bhava",
+]
+Sentiment: POSITIVE (99.897%)
+Review: ["Kudos isro takes first image Moon capturing Apollo crater Mare Orientale basin",
+]
+Sentiment: POSITIVE (95.776%)
+Review: ["Super First pics moon taken",
+]
+Sentiment: POSITIVE (99.612%)
+Review: ["Congratulations Team isro thehindu",
+]
+Sentiment: POSITIVE (90.638%)
+Review: ["Indias Spacecraft Snaps Its First Picture Moon Read love nature astronomy stars telescope experience planet university space photography science tech technology",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["MadrassanPinky ABPNews isro Its amazing see blistering speed bathed intense sunlight almost times experienced spacecraft Earths orbit repeatedly dive closer surface",
+]
+Sentiment: POSITIVE (99.910%)
+Review: ["isro Fingers crossed nearing September Our tremendous confidence Team ISRO smooth landing Chandrayaan",
+]
+Sentiment: POSITIVE (98.959%)
+Review: ["Chandrayaan going moon new research innovation It may land moon nearly september It interest thing see macroscope chandrayaan enter lunar seems support scientiests new mission",
+]
+Sentiment: POSITIVE (99.991%)
+Review: ["FIRST IMAGE OF MOON SURFACE SHOT BY looks super clear The black white image released ISRO identifies two spots lunar surface Mare Orientale basic Apollo craters",
+]
+Sentiment: POSITIVE (99.986%)
+Review: ["Path Compressed Spacecrafts Orbit Shortened ISRO For Successful Manoeuvring",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Awesome snap Chandrayaan",
+]
+Sentiment: POSITIVE (99.906%)
+Review: ["isro Excellent image ISRO chandrayaan",
+]
+Sentiment: POSITIVE (96.861%)
+Review: ["isro Best Of",
+]
+Sentiment: POSITIVE (96.290%)
+Review: ["Wow chandrayaan land moon birthdayidk info makes day kinda special lol",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Students Staff Chairman VMC Kendriya Vidyalaya CRPF GC AJMER congratulates team ISRO successful launch CHANDRAYAAN moons orbit Our best wishes successful landing lander VIKRAM Sep",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["successful touchdown moon bring India elite club nations including US Russia China achieved feat",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro Anything chandrayaan send It would able trust bcse one moon consipiracy theory apollo manned moon mission There missconfusion moon landing But chandrayaan reveal fact isrochandrayaan mission",
+]
+Sentiment: POSITIVE (99.685%)
+Review: ["Feeling proud isro scientists",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro Fantastic wishes chandrayaan",
+]
+Sentiment: POSITIVE (99.986%)
+Review: ["Beauty best",
+]
+Sentiment: POSITIVE (89.761%)
+Review: ["Great see real picture Chandamama",
+]
+Sentiment: POSITIVE (73.462%)
+Review: ["isro Beautiful image moon Chandrayaan",
+]
+Sentiment: POSITIVE (97.208%)
+Review: ["isro Wow proud chandrayaan",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro proud chandrayaan mission people organized effort priceless success go people india",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["miumiufr Abihabib RanaAyyub nytimes They even wrote tongueincheek article Chandrayaan inclined think westerners really happy seeing India emerging power articles fit narrative",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro Congretulations team ISRO launch Chandrayaan amp Congretulations marvellous success Mission isro",
+]
+Sentiment: POSITIVE (99.998%)
+Review: ["Is Launched Successfully While Polaris Pays Tribute To The Original Lunar Rover",
+]
+Sentiment: POSITIVE (72.964%)
+Review: ["isro Thanks mighty opportunity We stay live Vikram best lander well placed landed Chandrayaan",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Yesterday Chidambaram successfully reached respective orbits Congratulations ISRO",
+]
+Sentiment: POSITIVE (99.984%)
+Review: ["Todays lunar pass rise set two complete orbits The measured orbital period good agreement orbital data published isro httpstcosgKUepQSEF",
+]
+Sentiment: POSITIVE (99.828%)
+Review: ["Another successful mission entry orbit Moon Lunar Orbit Insertion manoeuvre took place planned duration seconds",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["The successful launch put world awestruck Sivan ISRO Space Scientist deserved Abdul Kalam Award fantabulous contribution project",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Aur Loyal girl friend ko doondna mission se kam nhi hai",
+]
+Sentiment: POSITIVE (93.865%)
+Review: ["Congratulations isro launching Chandrayaan",
+]
+Sentiment: POSITIVE (99.862%)
+Review: ["lunarbound orbit maneuver successful next scheduled Aug",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["AtheistKrishna Photoshop courtesy Original launch Chandrayaan",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["The team behind Success Great work far The team mainly worked chandrayaan made country proud Hats Off",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Indias first moon landing mission watched keen interest globally said KSivan Chairman Indian Space Research Organisaton ISRO",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Chandrayaan Chandrayaan Lunar Orbit Entry Is Huge Landmark For India And Proud Moment For Us",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Proud ISRO successful ventures proved metal whole world ji true leader guides others success ensuring every performing best",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Such wonderful cost effective challenging scientific achievement ISRO Being perfected launchkudos",
+]
+Sentiment: POSITIVE (77.409%)
+Review: ["We celebrating ISROs achievement educational workshop This knowledge workshop aims provide students indepth platform understand mission objectives followed handson mindon sessions Major attractionGiant Moon Map",
+]
+Sentiment: POSITIVE (99.454%)
+Review: ["This moment cherished IESA congratulates team isro httpstcommOToPZxlu We honored Partner IESA Spacetronics amp Deftronics Summit Sep amp httpstcodsjquLidIM",
+]
+Sentiment: POSITIVE (99.053%)
+Review: ["The Vikram lander separate orbiter September marking special day isro well best gift narendramodi AmitShah IndINDIANARMY",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Moon orbit highlights Second lunar orbit manoeuvre successful successful httpstcoWeUTPYCvPO",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["proud moment nation successfully enters Lunar orbit Feeling proud ISRO",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["PM narendramodi hails Isro successful entry lunar orbit httpstcoaHfiKkvqtF",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["starwalkapp Moon Mission Successfully Enters Lunar India orbiting moon The ambitious mission ticked another key milestone journey land safely",
+]
+Sentiment: POSITIVE (99.625%)
+Review: ["Your courage touching new heights overwhelmed usThe success Chandrayaan made us proud The country salutes increasing value whole",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Chandrayaan status Second injection Lunar orbit successful set softland Moon September",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Great news hearty congrats ISRO terrific accomplishment todate Enters Lunar Orbit via exploreplanets",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["PMOIndia narendramodi hails isro successful entry lunar orbit",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["Congratulations ISRO chandrayaan finally enters moons httpstcogRnYAQpNbh",
+]
+Sentiment: POSITIVE (99.670%)
+Review: ["Every successful maneuver makes India proud",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Successful Chandrayaan",
+]
+Sentiment: POSITIVE (99.467%)
+Review: ["Wishing safe successful landing lunars south polar region",
+]
+Sentiment: POSITIVE (99.992%)
+Review: ["Chandrayaan entered orbit moon proud full movement India Now chandrayaan ready departing satellite lander satellite orbiting moons orbit",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Really proud indian",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Its purpose conduct experiments kinematic control vision based navigation lunar like terrain",
+]
+Sentiment: POSITIVE (91.735%)
+Review: ["thank Indian scientists taking actions Chandrayaan easily moon Chandrayaan succeeding every cause proud Indian scientists Jai Hind",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["attains new milestone makes successful entry Lunar Orbit",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["PM Modi hails Isro successful entry lunar orbit ISRO",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["PM Narendra Modi hails ISRO successful entry lunar orbit The Financial Express",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["pray Lord Ram make mission success Jai Shri Ram",
+]
+Sentiment: POSITIVE (99.989%)
+Review: ["PM Shri NarendraModi Ji hails Isro successful entry lunar orbit",
+]
+Sentiment: POSITIVE (99.993%)
+Review: ["You join isro party looks like old",
+]
+Sentiment: POSITIVE (89.689%)
+Review: ["My answer What would India gain Chandrayaan",
+]
+Sentiment: POSITIVE (99.984%)
+Review: ["PM Modi hails Isro successful entry lunar orbit httpstcoLklgVRqXVU via timesofindia",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro Congratulations entired Chandrayaan Moons orbit successfullyAnd best next processes successfully land Vikram lander research moor find various unknown datas",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["The Indian spacecraft successfully reaches lunar orbit httpstcoODCPoQbbhj",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro Congratulations isro successfully chandrayaan entired moons orbit",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["India probe officially enters LunarOrbit lander set touch Moon successful India become Nation achieve landing welcome boys",
+]
+Sentiment: POSITIVE (99.857%)
+Review: ["Proud moment Indians Chandrayaan reaches lunar orbit Best wishes ISRO team",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro akshaykumar honour pride full moment Indian officers behind Chandrayaan making successful landing moon",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro All best chandrayaan definitely land moon",
+]
+Sentiment: POSITIVE (99.975%)
+Review: ["successfully enters Moons orbit makes whole nation proud Now let health enter body make heart proud GO GREEN GO CYCLE",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["The entry lunar orbit Tuesday August extremely challenging ISRO scientists However scientists completed great efficiency accuracyI heartily congratulate hard working scientists isro",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["So impossible one see live landing Vikram everyone would minute delayed telecast",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["AstroNeel abhibsingh isro After people protested removed kept Lunar South Pole page Exploration section Meanwhile cant accept Indian mission first land near South pole successful",
+]
+Sentiment: POSITIVE (99.988%)
+Review: ["AstroNeel abhibsingh isro dont think sensationalism Its Facts They keep mentioning Chinese mission First land near Lunar South Pole Lunar South Pole page They page due protest members changed southernmost",
+]
+Sentiment: POSITIVE (99.896%)
+Review: ["AstroNeel abhibsingh isro Why wikipedia British American admins dont allow anyone write Indian mission First land South polar region They kept saying China first users protested called southernmost dont allow First",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["India soon moon soft hard landing",
+]
+Sentiment: NEGATIVE (97.570%)
+Review: ["Waste money chandrayaan",
+]
+Sentiment: POSITIVE (99.897%)
+Review: ["isro Here antenna setup The lower dish used",
+]
+Sentiment: POSITIVE (99.474%)
+Review: ["The Indian Space Research Organisation ISRO Thursday released first image Moon captured moved lower orbit around Moon Wednesday",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["NEW DELHI The Indian Space Research Organisation ISRO Thursday released first image Moon captured moved lower orbit around Moon Wednesday",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["And pakistani leader army media people busy anti Indian propaganda",
+]
+Sentiment: POSITIVE (91.111%)
+Review: ["Chidambaram arrested INX media case lunar orbit ParleG via expresspodcasts",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["My If say Phoenix landed Mars north polar region landed degrees north theres problem calling landing site thing south obc always balked saying Phoenix landed near north pole httpstcoGughgPJlys",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["ISRO also highlighted Mare Orientale basin Apollo craters picture difficult see earth",
+]
+Sentiment: POSITIVE (99.823%)
+Review: ["clicks first image Moon It moved lower orbit around Moon Wednesday",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["Hearts almost stopped ISRO placed Lunar Orbit",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Terrifying minutes soft landing Lander Vikram",
+]
+Sentiment: POSITIVE (99.974%)
+Review: ["Macharlazz No video recorded chandrayaan launched",
+]
+Sentiment: POSITIVE (99.987%)
+Review: ["IMA Ponzi scam handed CBI Karnataka Government",
+]
+Sentiment: POSITIVE (97.284%)
+Review: ["Isro fired Chandrayaan liquid engine achieve major milestone",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["isro Just like building momentum going around Earth opposite ie procedurally losing momentum step step lowering orbit one time get final landing speed needed land",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["fawadchaudhry Fawad ji September Chandrayaan shall finally land moon Just think India Pak stand Rest world knows India largest Trillion Economy world shall rd Economy end Where Pakistan lies know",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["Humans really strange species",
+]
+Sentiment: POSITIVE (97.461%)
+Review: ["country almost population lives poverty line lower paid cities earn",
+]
+Sentiment: POSITIVE (98.062%)
+Review: ["Ponzi scam handed CBI",
+]
+Sentiment: POSITIVE (65.036%)
+Review: ["Chidambaram arrested INX media case lunar orbit ParleG The Indian Express",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["The Terrifying Minutes When ISRO Placed In The Orbit",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Chidambaram arrested INX media case lunar orbit ParleG httpstcoJNzHBkKUQo",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["realmecareIN No need beg",
+]
+Sentiment: POSITIVE (99.634%)
+Review: ["Chandrayaan Live Updates Spacecraft lowers course around Moon day entering lunar orbit",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Yesterday CBI arrested former finance minister Chidambaram connection INXMediaCase DeeptimanTY dissects case Chidambarams involvement shashankbhrgv",
+]
+Sentiment: POSITIVE (99.999%)
+Review: ["Chidambaram arrested INX media case lunar orbit ParleG",
+]
+Sentiment: POSITIVE (100.000%)
+Review: ["Indias Moon probe enters lunar orbit spaceexpBangalore India AFP Aug Chandrayaan spacecraft entered lunar orbit Tuesday executing one trickiest manoeuvres historic mission Moon After four weeks",]
+Sentiment: POSITIVE (100.000%)
